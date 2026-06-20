@@ -1,0 +1,11 @@
+stockId,symbol,name,sector,price,openPrice
+AT348,MSFT,Microsoft Corp.,Technology,387.00,378.90
+DNLFV,GOOGL,Alphabet Inc.,Technology,145.95,141.80
+HPYBQ9,META,Meta Platforms Inc.,Technology,512.17,502.30
+JK9WL,NVDA,NVIDIA Corp.,Technology,833.76,875.40
+8WZJXN,AAPL,Apple Inc.,Technology,179.97,182.50
+72J4GA,TSLA,Tesla Inc.,Automotive,237.81,248.50
+U1XS,BAC,Bank of America,Finance,38.83,38.20
+YIUWXA,KO,The Coca-Cola Co.,Consumer,62.03,60.10
+GMYNL3,JPM,JPMorgan Chase,Finance,201.89,198.70
+QM52S,AMZN,Amazon.com Inc.,Consumer,190.78,185.20
